@@ -1,0 +1,20 @@
+--cpu Cortex-M3 ".\build\wiflyinterface.o" ".\build\udpsocket.o" ".\build\endpoint.o" ".\build\tcpsocketserver.o" ".\build\tcpsocketconnection.o" ".\build\socket.o" ".\build\wifly.o" ".\build\i2c.o" ".\build\sht15.o" --strict --scatter "mbed/LPC1768/ARM/LPC1768.sct" 
+
+    
+                 
+                mbed/LPC1768/ARM/sys.o
+                 
+                mbed/LPC1768/ARM/cmsis_nvic.o
+                 
+                mbed/LPC1768/ARM/system_LPC17xx.o
+                 
+                mbed/LPC1768/ARM/core_cm3.o
+                 
+                mbed/LPC1768/ARM/startup_LPC17xx.o
+                 
+                mbed/LPC1768/ARM/mbed.ar
+                
+
+            --autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\build\Wifi_Interface.map" -o ".\build\Wifi_Interface.axf"

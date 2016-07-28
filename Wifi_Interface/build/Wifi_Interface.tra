@@ -1,0 +1,44 @@
+*** Creating Trace Output File '.\build\Wifi_Interface.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\build\wiflyinterface.o"'
+### List of Objects: adding '".\build\udpsocket.o"'
+### List of Objects: adding '".\build\endpoint.o"'
+### List of Objects: adding '".\build\tcpsocketserver.o"'
+### List of Objects: adding '".\build\tcpsocketconnection.o"'
+### List of Objects: adding '".\build\socket.o"'
+### List of Objects: adding '".\build\wifly.o"'
+### List of Objects: adding '".\build\sht15.o"'
+### List of Objects: adding '".\build\i2c.o"'
+### List of Objects: adding '".\build\main.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\build\wiflyinterface.o" ".\build\udpsocket.o" ".\build\endpoint.o" ".\build\tcpsocketserver.o" ".\build\tcpsocketconnection.o" ".\build\socket.o" ".\build\wifly.o" ".\build\sht15.o" ".\build\i2c.o" ".\build\main.o" --strict --scatter "mbed/LPC1768/ARM/LPC1768.sct" 
+
+    
+                 
+                mbed/LPC1768/ARM/sys.o
+                 
+                mbed/LPC1768/ARM/cmsis_nvic.o
+                 
+                mbed/LPC1768/ARM/system_LPC17xx.o
+                 
+                mbed/LPC1768/ARM/core_cm3.o
+                 
+                mbed/LPC1768/ARM/startup_LPC17xx.o
+                 
+                mbed/LPC1768/ARM/mbed.ar
+                
+
+            --autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\build\Wifi_Interface.map" -o ".\build\Wifi_Interface.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\build\Wifi_Interface.axf'
+### ADS-LD Command File: '.\build\Wifi_Interface.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\build\Wifi_Interface.lnp', Handle=0x000003D8
+### Writing '.lnp' file
+### ADS-LD Command file '.\build\Wifi_Interface.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

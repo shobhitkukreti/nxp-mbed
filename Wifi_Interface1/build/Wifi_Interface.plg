@@ -1,0 +1,308 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Shobhit Kukreti\Documents\Mbed\Wifi_Interface1\Wifi_Interface.uvproj
+Project File Date:  04/25/2013
+
+<h2>Output:</h2>
+Build target 'mbed NXP LPC1768'
+compiling udpserv_client.c...
+mbed\DigitalIn.h(23): error:  #20: identifier "namespace" is undefined
+mbed\DigitalIn.h(23): error:  #65: expected a ";"
+mbed\DigitalIn.h(85): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalIn.h(86): error:  #169: expected a declaration
+mbed\DigitalIn.h(88): error:  #169: expected a declaration
+mbed\DigitalOut.h(92): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalOut.h(93): error:  #169: expected a declaration
+mbed\DigitalOut.h(95): error:  #169: expected a declaration
+mbed\DigitalInOut.h(44): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalInOut.h(45): error:  #169: expected a declaration
+mbed\DigitalInOut.h(98): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalInOut.h(99): error:  #169: expected a declaration
+mbed\DigitalInOut.h(101): error:  #169: expected a declaration
+mbed\BusIn.h(44): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusIn.h(46): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(46): error:  #65: expected a ";"
+mbed\BusIn.h(53): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusIn.h(58): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(58): error:  #65: expected a ";"
+mbed\BusIn.h(61): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(61): error:  #65: expected a ";"
+mbed\BusIn.h(63): error:  #169: expected a declaration
+mbed\BusIn.h(65): error:  #169: expected a declaration
+mbed\BusOut.h(42): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusOut.h(44): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(44): error:  #65: expected a ";"
+mbed\BusOut.h(57): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusOut.h(62): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(62): error:  #65: expected a ";"
+mbed\BusOut.h(63): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(63): error:  #65: expected a ";"
+mbed\BusOut.h(67): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(67): error:  #65: expected a ";"
+mbed\BusOut.h(70): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(70): error:  #65: expected a ";"
+mbed\BusOut.h(72): error:  #169: expected a declaration
+mbed\BusOut.h(74): error:  #169: expected a declaration
+mbed\BusInOut.h(42): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusInOut.h(44): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(44): error:  #65: expected a ";"
+mbed\BusInOut.h(60): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusInOut.h(64): warning:  #1295-D: Deprecated declaration output - give arg types
+mbed\BusInOut.h(68): warning:  #1295-D: Deprecated declaration input - give arg types
+mbed\BusInOut.h(79): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(79): error:  #65: expected a ";"
+mbed\BusInOut.h(80): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(80): error:  #65: expected a ";"
+mbed\BusInOut.h(84): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(84): error:  #65: expected a ";"
+mbed\BusInOut.h(87): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(87): error:  #65: expected a ";"
+mbed\BusInOut.h(89): error:  #169: expected a declaration
+mbed\BusInOut.h(91): error:  #169: expected a declaration
+mbed\port_api.h(27): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\port_api.h(31): error:  #20: identifier "port_t" is undefined
+mbed\port_api.h(32): error:  #20: identifier "port_t" is undefined
+Target not created
+Build target 'mbed NXP LPC1768'
+compiling udpserv_client.c...
+mbed\DigitalIn.h(23): error:  #20: identifier "namespace" is undefined
+mbed\DigitalIn.h(23): error:  #65: expected a ";"
+mbed\DigitalIn.h(85): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalIn.h(86): error:  #169: expected a declaration
+mbed\DigitalIn.h(88): error:  #169: expected a declaration
+mbed\DigitalOut.h(92): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalOut.h(93): error:  #169: expected a declaration
+mbed\DigitalOut.h(95): error:  #169: expected a declaration
+mbed\DigitalInOut.h(44): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalInOut.h(45): error:  #169: expected a declaration
+mbed\DigitalInOut.h(98): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalInOut.h(99): error:  #169: expected a declaration
+mbed\DigitalInOut.h(101): error:  #169: expected a declaration
+mbed\BusIn.h(44): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusIn.h(46): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(46): error:  #65: expected a ";"
+mbed\BusIn.h(53): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusIn.h(58): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(58): error:  #65: expected a ";"
+mbed\BusIn.h(61): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(61): error:  #65: expected a ";"
+mbed\BusIn.h(63): error:  #169: expected a declaration
+mbed\BusIn.h(65): error:  #169: expected a declaration
+mbed\BusOut.h(42): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusOut.h(44): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(44): error:  #65: expected a ";"
+mbed\BusOut.h(57): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusOut.h(62): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(62): error:  #65: expected a ";"
+mbed\BusOut.h(63): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(63): error:  #65: expected a ";"
+mbed\BusOut.h(67): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(67): error:  #65: expected a ";"
+mbed\BusOut.h(70): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(70): error:  #65: expected a ";"
+mbed\BusOut.h(72): error:  #169: expected a declaration
+mbed\BusOut.h(74): error:  #169: expected a declaration
+mbed\BusInOut.h(42): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusInOut.h(44): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(44): error:  #65: expected a ";"
+mbed\BusInOut.h(60): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusInOut.h(64): warning:  #1295-D: Deprecated declaration output - give arg types
+mbed\BusInOut.h(68): warning:  #1295-D: Deprecated declaration input - give arg types
+mbed\BusInOut.h(79): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(79): error:  #65: expected a ";"
+mbed\BusInOut.h(80): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(80): error:  #65: expected a ";"
+mbed\BusInOut.h(84): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(84): error:  #65: expected a ";"
+mbed\BusInOut.h(87): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(87): error:  #65: expected a ";"
+mbed\BusInOut.h(89): error:  #169: expected a declaration
+mbed\BusInOut.h(91): error:  #169: expected a declaration
+mbed\port_api.h(27): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\port_api.h(31): error:  #20: identifier "port_t" is undefined
+mbed\port_api.h(32): error:  #20: identifier "port_t" is undefined
+Target not created
+Build target 'mbed NXP LPC1768'
+linking...
+.\build\Wifi_Interface.axf: Error: L6218E: Undefined symbol main (referred from rtentry2.o).
+Target not created
+Build target 'mbed NXP LPC1768'
+compiling main.c...
+mbed\DigitalIn.h(23): error:  #20: identifier "namespace" is undefined
+mbed\DigitalIn.h(23): error:  #65: expected a ";"
+mbed\DigitalIn.h(85): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalIn.h(86): error:  #169: expected a declaration
+mbed\DigitalIn.h(88): error:  #169: expected a declaration
+mbed\DigitalOut.h(92): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalOut.h(93): error:  #169: expected a declaration
+mbed\DigitalOut.h(95): error:  #169: expected a declaration
+mbed\DigitalInOut.h(44): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalInOut.h(45): error:  #169: expected a declaration
+mbed\DigitalInOut.h(98): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalInOut.h(99): error:  #169: expected a declaration
+mbed\DigitalInOut.h(101): error:  #169: expected a declaration
+mbed\BusIn.h(44): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusIn.h(46): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(46): error:  #65: expected a ";"
+mbed\BusIn.h(53): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusIn.h(58): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(58): error:  #65: expected a ";"
+mbed\BusIn.h(61): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(61): error:  #65: expected a ";"
+mbed\BusIn.h(63): error:  #169: expected a declaration
+mbed\BusIn.h(65): error:  #169: expected a declaration
+mbed\BusOut.h(42): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusOut.h(44): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(44): error:  #65: expected a ";"
+mbed\BusOut.h(57): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusOut.h(62): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(62): error:  #65: expected a ";"
+mbed\BusOut.h(63): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(63): error:  #65: expected a ";"
+mbed\BusOut.h(67): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(67): error:  #65: expected a ";"
+mbed\BusOut.h(70): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(70): error:  #65: expected a ";"
+mbed\BusOut.h(72): error:  #169: expected a declaration
+mbed\BusOut.h(74): error:  #169: expected a declaration
+mbed\BusInOut.h(42): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusInOut.h(44): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(44): error:  #65: expected a ";"
+mbed\BusInOut.h(60): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusInOut.h(64): warning:  #1295-D: Deprecated declaration output - give arg types
+mbed\BusInOut.h(68): warning:  #1295-D: Deprecated declaration input - give arg types
+mbed\BusInOut.h(79): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(79): error:  #65: expected a ";"
+mbed\BusInOut.h(80): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(80): error:  #65: expected a ";"
+mbed\BusInOut.h(84): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(84): error:  #65: expected a ";"
+mbed\BusInOut.h(87): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(87): error:  #65: expected a ";"
+mbed\BusInOut.h(89): error:  #169: expected a declaration
+mbed\BusInOut.h(91): error:  #169: expected a declaration
+mbed\port_api.h(27): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\port_api.h(31): error:  #20: identifier "port_t" is undefined
+mbed\port_api.h(32): error:  #20: identifier "port_t" is undefined
+Target not created
+Build target 'mbed NXP LPC1768'
+compiling main.c...
+mbed\DigitalIn.h(23): error:  #20: identifier "namespace" is undefined
+mbed\DigitalIn.h(23): error:  #65: expected a ";"
+mbed\DigitalIn.h(85): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalIn.h(86): error:  #169: expected a declaration
+mbed\DigitalIn.h(88): error:  #169: expected a declaration
+mbed\DigitalOut.h(92): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalOut.h(93): error:  #169: expected a declaration
+mbed\DigitalOut.h(95): error:  #169: expected a declaration
+mbed\DigitalInOut.h(44): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalInOut.h(45): error:  #169: expected a declaration
+mbed\DigitalInOut.h(98): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalInOut.h(99): error:  #169: expected a declaration
+mbed\DigitalInOut.h(101): error:  #169: expected a declaration
+mbed\BusIn.h(44): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusIn.h(46): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(46): error:  #65: expected a ";"
+mbed\BusIn.h(53): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusIn.h(58): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(58): error:  #65: expected a ";"
+mbed\BusIn.h(61): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(61): error:  #65: expected a ";"
+mbed\BusIn.h(63): error:  #169: expected a declaration
+mbed\BusIn.h(65): error:  #169: expected a declaration
+mbed\BusOut.h(42): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusOut.h(44): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(44): error:  #65: expected a ";"
+mbed\BusOut.h(57): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusOut.h(62): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(62): error:  #65: expected a ";"
+mbed\BusOut.h(63): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(63): error:  #65: expected a ";"
+mbed\BusOut.h(67): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(67): error:  #65: expected a ";"
+mbed\BusOut.h(70): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(70): error:  #65: expected a ";"
+mbed\BusOut.h(72): error:  #169: expected a declaration
+mbed\BusOut.h(74): error:  #169: expected a declaration
+mbed\BusInOut.h(42): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusInOut.h(44): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(44): error:  #65: expected a ";"
+mbed\BusInOut.h(60): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusInOut.h(64): warning:  #1295-D: Deprecated declaration output - give arg types
+mbed\BusInOut.h(68): warning:  #1295-D: Deprecated declaration input - give arg types
+mbed\BusInOut.h(79): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(79): error:  #65: expected a ";"
+mbed\BusInOut.h(80): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(80): error:  #65: expected a ";"
+mbed\BusInOut.h(84): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(84): error:  #65: expected a ";"
+mbed\BusInOut.h(87): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(87): error:  #65: expected a ";"
+mbed\BusInOut.h(89): error:  #169: expected a declaration
+mbed\BusInOut.h(91): error:  #169: expected a declaration
+mbed\port_api.h(27): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\port_api.h(31): error:  #20: identifier "port_t" is undefined
+mbed\port_api.h(32): error:  #20: identifier "port_t" is undefined
+Target not created
+Build target 'mbed NXP LPC1768'
+compiling main.c...
+mbed\DigitalIn.h(23): error:  #20: identifier "namespace" is undefined
+mbed\DigitalIn.h(23): error:  #65: expected a ";"
+mbed\DigitalIn.h(85): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalIn.h(86): error:  #169: expected a declaration
+mbed\DigitalIn.h(88): error:  #169: expected a declaration
+mbed\DigitalOut.h(92): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalOut.h(93): error:  #169: expected a declaration
+mbed\DigitalOut.h(95): error:  #169: expected a declaration
+mbed\DigitalInOut.h(44): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalInOut.h(45): error:  #169: expected a declaration
+mbed\DigitalInOut.h(98): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\DigitalInOut.h(99): error:  #169: expected a declaration
+mbed\DigitalInOut.h(101): error:  #169: expected a declaration
+mbed\BusIn.h(44): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusIn.h(46): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(46): error:  #65: expected a ";"
+mbed\BusIn.h(53): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusIn.h(58): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(58): error:  #65: expected a ";"
+mbed\BusIn.h(61): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusIn.h(61): error:  #65: expected a ";"
+mbed\BusIn.h(63): error:  #169: expected a declaration
+mbed\BusIn.h(65): error:  #169: expected a declaration
+mbed\BusOut.h(42): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusOut.h(44): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(44): error:  #65: expected a ";"
+mbed\BusOut.h(57): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusOut.h(62): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(62): error:  #65: expected a ";"
+mbed\BusOut.h(63): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(63): error:  #65: expected a ";"
+mbed\BusOut.h(67): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(67): error:  #65: expected a ";"
+mbed\BusOut.h(70): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusOut.h(70): error:  #65: expected a ";"
+mbed\BusOut.h(72): error:  #169: expected a declaration
+mbed\BusOut.h(74): error:  #169: expected a declaration
+mbed\BusInOut.h(42): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\BusInOut.h(44): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(44): error:  #65: expected a ";"
+mbed\BusInOut.h(60): warning:  #1295-D: Deprecated declaration read - give arg types
+mbed\BusInOut.h(64): warning:  #1295-D: Deprecated declaration output - give arg types
+mbed\BusInOut.h(68): warning:  #1295-D: Deprecated declaration input - give arg types
+mbed\BusInOut.h(79): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(79): error:  #65: expected a ";"
+mbed\BusInOut.h(80): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(80): error:  #65: expected a ";"
+mbed\BusInOut.h(84): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(84): error:  #65: expected a ";"
+mbed\BusInOut.h(87): warning:  #77-D: this declaration has no storage class or type specifier
+mbed\BusInOut.h(87): error:  #65: expected a ";"
+mbed\BusInOut.h(89): error:  #169: expected a declaration
+mbed\BusInOut.h(91): error:  #169: expected a declaration
+mbed\port_api.h(27): warning:  #12-D: parsing restarts here after previous syntax error
+mbed\port_api.h(31): error:  #20: identifier "port_t" is undefined
+mbed\port_api.h(32): error:  #20: identifier "port_t" is undefined
+Target not created

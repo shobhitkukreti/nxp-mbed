@@ -1,0 +1,42 @@
+Dependencies for Project 'bare_metal', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5438F7DC)(--execute_only -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE"-I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE\Device\LPC1768"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-D_RTE_ -DLPC175x_6x-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h)(0x4FF5D0E8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h)(0x53FD04CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A706A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FFC59A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FFC59A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h)(0x4DA5BE5C)
+F (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\GPDMA_LPC17xx.c)(0x539B52D2)(--execute_only -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE"-I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE\Device\LPC1768"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-D_RTE_ -DLPC175x_6x-o .\objects\gpdma_lpc17xx.o --omf_browse .\objects\gpdma_lpc17xx.crf --depend .\objects\gpdma_lpc17xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h)(0x4FF5D0E8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h)(0x53FD04CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A706A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FFC59A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FFC59A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h)(0x4DA5BE5C)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\GPDMA_LPC17xx.h)(0x539B52D2)
+F (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\GPIO_LPC17xx.c)(0x539F01D2)(--execute_only -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE"-I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE\Device\LPC1768"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-D_RTE_ -DLPC175x_6x-o .\objects\gpio_lpc17xx.o --omf_browse .\objects\gpio_lpc17xx.crf --depend .\objects\gpio_lpc17xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h)(0x4FF5D0E8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h)(0x53FD04CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A706A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FFC59A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FFC59A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h)(0x4DA5BE5C)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\GPIO_LPC17xx.h)(0x539F01D2)
+F (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\PIN_LPC17xx.c)(0x539B52D2)(--execute_only -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE"-I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE\Device\LPC1768"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-D_RTE_ -DLPC175x_6x-o .\objects\pin_lpc17xx.o --omf_browse .\objects\pin_lpc17xx.crf --depend .\objects\pin_lpc17xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h)(0x4FF5D0E8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h)(0x53FD04CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A706A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FFC59A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FFC59A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h)(0x4DA5BE5C)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\PIN_LPC17xx.h)(0x539B52D2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x541A706C)
+F (RTE\Device\LPC1768\RTE_Device.h)(0x53B19408)()
+F (RTE\Device\LPC1768\startup_LPC17xx.s)(0x4DA5BE5C)(--cpu Cortex-M3 -g --apcs=interwork -I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE"-I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE\Device\LPC1768"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver--pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1"--list .\listings\startup_lpc17xx.lst --xref -o .\objects\startup_lpc17xx.o --depend .\objects\startup_lpc17xx.d)
+F (RTE\Device\LPC1768\system_LPC17xx.c)(0x4F8F329E)(--execute_only -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE"-I "C:\Users\Shobhit Kukreti\Documents\Mbed\bare_metal\RTE\Device\LPC1768"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-D_RTE_ -DLPC175x_6x-o .\objects\system_lpc17xx.o --omf_browse .\objects\system_lpc17xx.crf --depend .\objects\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A706A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h)(0x4FF5D0E8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h)(0x53FD04CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FFC59A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FFC59A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h)(0x4DA5BE5C)
